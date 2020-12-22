@@ -37,7 +37,7 @@ In this repository following files included:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://ksekara.medium.com/deep-dive-into-seattle-airbnb-data-f198143f6492).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Credit to Airbnb for providing the data. Licensing information can be found at the [Kaggle page](https://www.kaggle.com/airbnb/seattle) and the original source from [Airbnb Inside](http://insideairbnb.com/get-the-data.html).
